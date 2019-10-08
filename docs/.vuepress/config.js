@@ -6,6 +6,6 @@ module.exports = ctx => ({
   port: 83,
   plugins: [ [autobar, {pinyinNav: false}] ],
   themeConfig: {
-    nav: [{ text: "自动bar配置", link: "https://github.com/boboidream/vuepress-bar" }]
+    nav: [{ text: "Autobar Setting", link: "https://github.com/boboidream/vuepress-bar" }]
   }
 });
